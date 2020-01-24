@@ -16,7 +16,9 @@ y = 5.5  # float
 print(type(y))
 
 z = 1j  # complex
+# Complext numbers are written with a j as the imaginary part
 print(type(z))
+print(3 + 5j)
 
 names = ['Gift', 'Grace', 'Brad']  # list
 print(type(names))
